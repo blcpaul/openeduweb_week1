@@ -1,1 +1,9 @@
-
+{
+ "headers: {
+   "/*": {
+    "X-Author": "grandlinesupervisor" 
+//Access-Control-Allow-Origin
+}
+  }
+  
+}
